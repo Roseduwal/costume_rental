@@ -1,0 +1,6 @@
+InFormal Suit,Megaplex,40,21
+Formal Suit,Zararara,60,20
+Fairy costume,Dollarraarr,30,40
+Cop costume,Mangooorrss,31,20
+Animal suit,Levissss,10,40
+Red Fox mask,Wearemmemm,7,41
